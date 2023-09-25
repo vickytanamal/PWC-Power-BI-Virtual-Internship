@@ -1,4 +1,4 @@
-![Diversity   Inclusion - 1](https://github.com/vickytanamal/PWC-Power-BI-Virtual-Internship/assets/76517153/53374ab5-de5c-49de-bc13-b4b3ea7635b5)# PWC-Virtual-Internship
+# PWC-Power-BI-Virtual-Internship
 
 ## Table of Contents:
 - Task 1: Call Centre Trends
